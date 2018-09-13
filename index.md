@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Emma's Website for Testing
 
 You can use the [editor on GitHub](https://github.com/EmmaLewisMaclaren/EmmaLewisMaclaren.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
